@@ -10,5 +10,6 @@ _MENTOR:_  NEELA SANTOSH
 
 ##DESCRIPTION OF TAKS
 
-## OUTPUT PICTURE
 
+## OUTPUT PICTURE
+![Image](https://github.com/user-attachments/assets/64dfe2de-f08f-482d-9ccd-c6d1fdd7a434)
