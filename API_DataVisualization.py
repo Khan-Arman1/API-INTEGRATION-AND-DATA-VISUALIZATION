@@ -10,7 +10,7 @@ from dash import html       # allows us to create html components
 app = dash.Dash(__name__)
 
 # creating an API key
-API_key = "a83569742837f78e14f5321f46a9c3f0"
+API_key = "API_KEY"
 
 # defining variables to store data
 max_temp_list = []
