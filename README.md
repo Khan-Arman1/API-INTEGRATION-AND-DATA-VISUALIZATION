@@ -1,18 +1,6 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
 
-_COMPANY:_ CODTECH IT SOLUTIONS
-
-_NAME:_ ARMAN KHAN
-
-_INTERN ID:_ CT08RRC
-
-_DOMAIN:_ PYTHON 
-
-_DURATION:_ 4 WEEKS
-
-_MENTOR:_  NEELA SANTOSH
-
 ## DESCRIPTION of Task:
 This project implements on visualization of data through graphs, Visualizing the weather for next 7 days. This project use requests library for acessing data through API(data source Openweathermapapi), matplotlib for data visualization, io for data input/output or storing data, base64 for converting matplotlib graph into images, plotly dash is used to create a dashboard. 
 
