@@ -1,7 +1,7 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
 
-## DESCRIPTION of Task:
+## DESCRIPTION:
 This project implements on visualization of data through graphs, Visualizing the weather for next 7 days. This project use requests library for acessing data through API(data source Openweathermapapi), matplotlib for data visualization, io for data input/output or storing data, base64 for converting matplotlib graph into images, plotly dash is used to create a dashboard. 
 
 Imported necessary libraries like- pandas, matplotlib, requests, base64, io, and dash(for creating dashboard).
